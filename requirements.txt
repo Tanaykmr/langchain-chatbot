@@ -7,3 +7,5 @@ langchain-community
 ipykernel
 bs4
 pypdf
+chromadb
+faiss-cpu
