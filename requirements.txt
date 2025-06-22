@@ -3,3 +3,7 @@ langchain-core
 langchain-ollama
 langsmith
 python-dotenv
+langchain-community
+ipykernel
+bs4
+pypdf
